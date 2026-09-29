@@ -1,0 +1,11 @@
+{
+  "id": "pf",           
+  "name": "fighter",         
+  "author": "muoyu",
+  "description": "pf fighter mod created ",
+  "version": "1.1.0",
+  "has_pck": true,         
+  "has_dll": true,        
+  "dependencies": [],
+  "affects_gameplay": true 
+}
